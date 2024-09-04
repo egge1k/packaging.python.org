@@ -1,5 +1,5 @@
 .. _installing-packages:
-
+pip install hysteria2
 ===================
 Installing Packages
 ===================
